@@ -1,0 +1,6 @@
+'''We will write this in the test tab of our lambda function'''
+
+{ 
+  "number1": 2, 
+  "number2": 5 
+}
