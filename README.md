@@ -1,4 +1,4 @@
-# Project--sns-apiGateway: Instractions
+# Project--sns-apiGateway: Instructions
 
 
 # Search for IAM:
