@@ -1,10 +1,5 @@
-# Project--sns-apiGateway
+# Project--sns-apiGateway: Instractions
 
-Under the test tab: 
-  {
-  "number1": 2,
-  "number2": 5
-}
 
 # Search for IAM:
   first we need to create a IAM  --> Roles --> choose AWS Service --> Use case: lambda  && ApiGateway --> next --> Under the Permissions policies find this 3 /
@@ -14,7 +9,7 @@ Under the test tab:
   --> next --> create role. 
   
 
-# create sns:
+# create SNS:
 --> goto Amazom sns
 -->create topic for 
 -->create sub to the email and confirm from the email 
