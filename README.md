@@ -11,7 +11,7 @@
   
   ---
 
-# create SNS:
+# Create SNS:
 --> goto Amazom sns
 -->create topic for 
 -->create sub to the email and confirm from the email 
